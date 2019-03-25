@@ -1,0 +1,6 @@
+export JAVA_HOME=/usr/java/jdk1.7_ora
+#/usr/lib/jvm/jdk-7-oracle-arm-vfp-hflt
+#/usr/lib/jvm/java-8-openjdk-armhf /usr/lib/jvm/jdk-7-oracle-arm-vfp-hflt
+export PATH=$JAVA_HOME/bin:$PATH
+export JBOSS_HOME=/home/guest/jboss-as-7.1.1.Final
+export PATH=$JBOSS_HOME/bin:$PATH

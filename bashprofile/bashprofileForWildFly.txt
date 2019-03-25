@@ -1,0 +1,6 @@
+export JAVA_HOME=/usr/java/jdk1.8
+#/usr/lib/jvm/java-8-openjdk-armhf #/usr/lib/jvm/jdk-7-oracle-arm-vfp-hflt
+export PATH=$JAVA_HOME/bin:$PATH
+export JBOSS_HOME=/home/pi/Desktop/wildfly-10.1.0.Final
+export PATH=$JBOSS_HOME/bin:$PATH
+#/usr/java/jdk1.8.0_201/bin/java
